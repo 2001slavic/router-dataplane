@@ -49,6 +49,6 @@ sudo python3 topo.py tests
 
 ## Credits
 
-Scheletul de cod si suita de deste apartin echipei de *Protocoale de Comunicatii* 2022 din *Facultatea de Automatica si Calculatoare* din *Universitatea Politehnica din Bucuresti*.
+Scheletul de cod si suita de teste apartin echipei de *Protocoale de Comunicatii* 2022 din *Facultatea de Automatica si Calculatoare* din *Universitatea Politehnica din Bucuresti*.
 
 Aprilie 2022
